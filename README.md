@@ -1,23 +1,17 @@
-# FELY E AMIGOS EXPRESS
+# FELY E AMIGOS EXPRESS — Proposta de Investimento
 
-**Slogan:** Produtos que você descobre. Ofertas que você aproveita.
+Website de apresentação de uma proposta preliminar de empreendimento em mobilidade e logística ligeira, com operação inicial prevista em Viana, Luanda, Angola.
 
-Landing page responsiva em HTML, CSS e JavaScript, preparada para publicação no GitHub Pages.
+## Conceito
+- 3 motorizadas de duas rodas previstas para transporte de passageiros, sujeitas à confirmação de requisitos legais e elegibilidade da plataforma indicada.
+- 1 motorizada de três rodas prevista para transporte de mercadorias para comerciantes e empresas.
+- Capital total proposto: 5.000.000 Kz.
+- Aplicação preliminar: 4.500.000 Kz para os veículos e 500.000 Kz para custos e reserva de arranque.
 
-## Conteúdo
-- Página inicial com identidade visual azul, verde, branco e azul-escuro.
-- Catálogo demonstrativo com filtros por categoria.
-- Botões que abrem uma conversa no WhatsApp com o produto escolhido.
-- Secções “Como funciona”, “Sobre nós” e perguntas frequentes.
-- Layout adaptado para telemóveis e computadores.
-
-## Antes de começar a vender
-- Confirme o número de WhatsApp utilizado nos links.
-- Substitua imagens ilustrativas e categorias pelos produtos reais.
-- Adicione preços, disponibilidade, condições de entrega, pagamento e política de devoluções confirmados.
-- Não anuncie stock ou condições que ainda não estejam garantidos.
+## Importante
+Os valores e as projecções apresentados no site são hipóteses iniciais para discussão, não resultados históricos nem garantia de lucro. As cotações, licenças, seguros, condições de plataforma, procura, custos operacionais e termos do investimento devem ser validados antes de assumir compromissos. A participação do investidor e o eventual retorno ainda precisam de negociação e formalização.
 
 ## Publicação
-Em GitHub, abra **Settings → Pages** e confirme que a publicação está configurada para a branch `main` e a pasta `/(root)`.
+No GitHub, aceda a **Settings → Pages** e confirme a branch `main` e a pasta `/(root)`.
 
-Site: https://felicidadedias.github.io/Fely-express/
+Website: https://felicidadedias.github.io/Fely-express/
